@@ -1,0 +1,27 @@
+{
+  "api": {
+    "animals": [
+    {
+      "id": 1,
+      "animal_bread": "Овчарка",
+      "age": 100,
+      "image": null
+    },
+    {
+      "id": 2,
+      "animal_bread": "Болонка",
+      "age": 1,
+      "image": null
+    },
+    {
+      "id": 3,
+      "animal_bread": "Двортерьер",
+      "age": 18,
+      "image": null
+    }
+  ],
+  "login": {
+    "token": "a-b-c"
+  }
+  }
+}
